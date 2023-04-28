@@ -1,7 +1,7 @@
 <h1 align="center">AI and Data Jobs Tweets Sentiment Analysis</h1>
 
 <div style="text-align:center;">
-    <img src="https://storage.googleapis.com/kagglesdsdata/datasets/3130110/5402155/banner.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20230422%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230422T051954Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=54a71761cbe404978cbf0a3aafe90725ceb7e2874f34b464214960f2d694201a719e1180841b8701f42efe944ea7971410ce2701cdc0927cbf3c2f1a7fd5630c41d2073b771735f749b49cff0e5f6a3d166ef040ffc95f8c644d2c208c6eadf1a95b26db1ba0bdccb5073fb2900bd0c481e95947405316b0cbc46611c1803c684e739900ac5256680c666de02fa6cd7e0a4ac5a1854d3eb652e50dbc7dfd69e1516c3cbb9a084fcb43066378b96346d739e84d19973e5f4d234f5ca091c97d0501d40614adda74b9f9d6232459ab9c3b4b95018837c4e2512a7962d545aaba518b92f1f8707dda3b4f804ef1dd26fa05e693af68c1232bc5ba73525307565e92" alt="project-banner">
+    <img src="https://i.imgur.com/4yRKIg2.jpg" alt="project-banner">
 </div>
 
 ---
